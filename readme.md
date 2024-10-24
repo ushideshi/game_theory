@@ -1,4 +1,4 @@
-#The Prisoner's Dilemma
+# The Prisoner's Dilemma
 
 The [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) is part of [Game Theory](https://en.wikipedia.org/wiki/Game_theory) and is an experiment involving two rational agents, each of whom can either cooperate for mutual benefit or betray their partner ("defect") for individual gain.
 
